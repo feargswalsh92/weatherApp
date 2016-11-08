@@ -16,6 +16,7 @@
 		B5CFD86F1DD01B1C00F4EA77 /* weatherAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5CFD86E1DD01B1C00F4EA77 /* weatherAppUITests.swift */; };
 		B5CFD87D1DD1032200F4EA77 /* Weather.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B5CFD87C1DD1032200F4EA77 /* Weather.jpeg */; };
 		B5CFD87F1DD17EA500F4EA77 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B5CFD87E1DD17EA500F4EA77 /* Default-568h@2x.png */; };
+		B5CFD8811DD2389C00F4EA77 /* Swift.gitignore in Resources */ = {isa = PBXBuildFile; fileRef = B5CFD8801DD2389C00F4EA77 /* Swift.gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		B5CFD8701DD01B1C00F4EA77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5CFD87C1DD1032200F4EA77 /* Weather.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Weather.jpeg; sourceTree = "<group>"; };
 		B5CFD87E1DD17EA500F4EA77 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		B5CFD8801DD2389C00F4EA77 /* Swift.gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = Swift.gitignore; path = ../../../Downloads/Kyve/kyveFirebase/Swift.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				B5CFD8621DD01B1C00F4EA77 /* weatherAppTests */,
 				B5CFD86D1DD01B1C00F4EA77 /* weatherAppUITests */,
 				B5CFD84C1DD01B1C00F4EA77 /* Products */,
+				B5CFD8801DD2389C00F4EA77 /* Swift.gitignore */,
 			);
 			sourceTree = "<group>";
 		};
@@ -240,6 +243,7 @@
 			files = (
 				B5CFD87D1DD1032200F4EA77 /* Weather.jpeg in Resources */,
 				B5CFD8591DD01B1C00F4EA77 /* LaunchScreen.storyboard in Resources */,
+				B5CFD8811DD2389C00F4EA77 /* Swift.gitignore in Resources */,
 				B5CFD8561DD01B1C00F4EA77 /* Assets.xcassets in Resources */,
 				B5CFD87F1DD17EA500F4EA77 /* Default-568h@2x.png in Resources */,
 				B5CFD8541DD01B1C00F4EA77 /* Main.storyboard in Resources */,
